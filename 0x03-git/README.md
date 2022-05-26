@@ -1,1 +1,2 @@
-my secondcommit
+my second commit is ok
+
